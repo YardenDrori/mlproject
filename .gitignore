@@ -122,3 +122,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project: large data, trained models, and generated plots
+fraud_detection/data/creditcard.csv
+fraud_detection/models/
+fraud_detection/results/
